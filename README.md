@@ -2,7 +2,7 @@
 
 # 🤖 Machine Learning
 
-### My Machine Learning Learning Journey
+### My Machine Learning Learning Journey.
 
 A personal repository where I learn, practice, experiment, and build my understanding of **Machine Learning** step by step.
 
